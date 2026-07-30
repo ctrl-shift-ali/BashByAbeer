@@ -33,7 +33,7 @@ int main() {
     std::cout << "\t\t\t     \"BashByAbeer\"\n";
     std::cout << "\t\t\t======================\n";
     std::cout << "Hello There!\n";
-    std::cout << "Welcome to terminal made by Me. Type 'exit' to quit.\n\n";
+    std::cout << "Welcome to the terminal made by Me. Type 'exit' to quit.\n\n";
     std::string command;
 
     while (true) {
