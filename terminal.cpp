@@ -238,7 +238,7 @@ static void showStartupBanner() {
         "\t\t\t     \"BashByAbeer\"\n"
         "\t\t\t======================\n"
         "Hello There!\n"
-        "Welcome to terminal made by Me. Type 'exit' to quit.\n\n";
+        "Welcome to the terminal made by Me. Type 'exit' to quit.\n\n";
 
     g_screen.eraseScreen(2);
     g_screen.cursorX = 0;
