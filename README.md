@@ -1,4 +1,4 @@
-# CustomTerminal
+# BashByAbeer
 
 A from-scratch Windows terminal, built the same way real ones are:
 
