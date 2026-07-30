@@ -1,4 +1,5 @@
 /*
+THIS IS A NOTIFICATION FILE!.
 FIRST IN TERMINAL TYPE "    g++ np.cpp -o np.exe -mwindows    "
 THEN TYPE THIS IN NEXT LINE "    .\np.exe    "
 Click Enter and File will run! :)
